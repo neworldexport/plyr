@@ -1,4 +1,4 @@
-# Plyr
+﻿# Plyr test
 A simple, accessible HTML5 media player. 
 
 [Checkout the demo](http://plyr.io)
